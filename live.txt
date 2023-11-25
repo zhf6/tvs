@@ -606,27 +606,27 @@ MTV Live音乐频道,http://154.216.191.59/ycdz/tw220.php?id=48
 达文西频道,http://154.216.191.59/ycdz/tw220.php?id=49
 宠物频道 ,http://154.216.191.59/ycdz/tw220.php?id=50
 三立新闻,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+民视新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV17.m3u8
+三立iNEWS,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV01.m3u8
+三立iNEWS,https://usercontent.githubfast.com/raw/etag2000/IPTV/YTlive/setlive.m3u8
+三立iNEWS,https://usercontent.githubfast.com/raw/etag2000/IPTV/YTlive/setinews.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立NEWS+,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 年代新闻,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV49.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS NEWS,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV31.m3u8
 东森新闻,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 台视新闻,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台视新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV25.m3u8
+中视新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+镜新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV70.m3u8
 寰宇国际新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
@@ -642,9 +642,9 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_2/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_2/chunklist.m3u8*~hmac=4d5a5a64d3a2099102a144761bc8c65b0f79b9b0421e984cbba7dde5dec1ccd3
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-华视综艺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+华视综艺,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV26.m3u8
 华视综艺,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-华视戏剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+华视戏剧,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV12.m3u8
 华视戏剧,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -657,27 +657,27 @@ HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
-东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-亲子动画01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-亲子动画02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-亲子动画,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+东森幼幼歌曲,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV63.m3u8
+亲子动画01,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV65.m3u8
+亲子动画02,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV66.m3u8
+亲子动画,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV67.m3u8
 ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-民视新闻台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-台视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-中视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+镜新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV70.m3u8
+寰宇新闻台,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV02.m3u8
+民视新闻台HD,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV17.m3u8
+台视新闻HD,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV25.m3u8
+中视新闻HD,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV09.m3u8
+中视,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV71.m3u8
+中天新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV49.m3u8
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-原住民族电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+镜新闻,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV70.m3u8
+TVBS NESW,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV31.m3u8
+TAIWAN PLUS,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV78.m3u8
+原住民族电视台,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV35.m3u8
+MOMO1台,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV04.m3u8
+MOMO2台,https://usercontent.githubfast.com/raw/ChiSheng9/iptv/master/TV05.m3u8
 三立台湾,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立戏剧,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 AXN,http://ceshi.huanqiuzhibo.cn/accv.php?id=axn_twn
@@ -1897,6 +1897,27 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+东南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+东方卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+北京卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+四川卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+安徽卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+山东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+广东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+广西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+江苏卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+河北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+河南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+浙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+海南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+深圳卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+湖北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+贵州卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+辽宁卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+重庆卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+黑龙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 
 4K,#genre#
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
