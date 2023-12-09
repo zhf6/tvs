@@ -439,6 +439,24 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
 
+河南,#genre#
+河南都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+河南民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
+河南法治,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41103/index.m3u8
+河南电视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8
+河南新闻,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41105/index.m3u8
+河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+河南乡村,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41107/index.m3u8
+河南睛彩中原,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41108/index.m3u8
+河南移动戏曲,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41109/index.m3u8
+河南功夫,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41110/index.m3u8
+河南收藏天下,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41111/index.m3u8
+河南法治,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41103/index.m3u8
+河南4k,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+河南梨园,http://sxz.zccatv.cn:9901/tsfile/live/1029_1.m3u8
+温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+
 港•澳•台,#genre#
 翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
