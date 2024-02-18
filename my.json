@@ -577,15 +577,15 @@
     ],
     "lives": [
         {
-            "name": "直播1",
+            "name": "直播",
             "type": 0,
             "playerType": 1,
-            "url": "http://tt.iitvba.com/tv.txt",
+            "url": "https://raw.gitmirror.com/zhf6/tvs/main/live.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播",
+            "name": "直播1",
             "type": 0,
             "playerType": 1,
             "url": "http://tt.iitvba.com/tv.txt",
